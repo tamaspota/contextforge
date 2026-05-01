@@ -1,0 +1,7 @@
+project	area	status	priority	mode	next_step	blocker	review_cycle	note	current_state
+stream_system	gaming/stream	paused	high	ongoing	stabilize OBS and macro flow	unstable multi-account setup	daily	main stream workflow	pause
+school_materials	work/education	paused	critical	ongoing	prepare test question set	too many parallel classes	weekly	high operational importance	pause
+camera_system	home	active	medium	design	choose AI camera/NVR direction	product selection	weekly	Tapo/VIGI style system	almost_done
+ai_workflow_system	system	paused	critical	build	refine brain dump pipeline	no rule system yet	daily	core automation layer	pause
+shopping_loop	system	monitor	medium	control	apply 48h rule	impulse buying	daily	dopamine/control loop	pause
+lawn_tractor	home/repair	active	medium	repair	change transmission oil without full disassembly	unknown oil condition/spec	daily	minimal first intervention before deeper teardown	important_not_asap
